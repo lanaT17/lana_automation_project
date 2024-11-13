@@ -1,0 +1,7 @@
+# Ігнорування папки node_modules
+node_modules/
+
+# Ігнорування звітів з тестування
+reports/
+coverage/
+*.log
